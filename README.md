@@ -32,8 +32,5 @@ Hint: Much as poorly-written sentences, data can be misleading sometimes. Pay ex
 - Recall (per class) = TPTP + FN
 - F1-score (per class) = 2 *Recall * PrecisionRecall + Precision
 
-More specifically, we want you to focus on predicting the true sources, so we will be focusing on the f1-score of the true class:
-
-- F1-scoretrue = 2 *Recalltrue * PrecisiontrueRecalltrue + Precisiontrue
 
 
